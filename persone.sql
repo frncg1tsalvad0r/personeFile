@@ -9,4 +9,4 @@ create table utenti (
     primary key(id)
 );
 
-insert utenti (id, nome, foto) value (1, 'Mario', "img/1_foto.jpg");
+insert utenti (id, nome, foto) value (1, 'Mario', "img/1_file.jpg");
